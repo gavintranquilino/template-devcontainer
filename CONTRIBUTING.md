@@ -24,7 +24,7 @@ Read the [Coding Style](docs/coding-style.md) and [Documentation](docs/documenta
 
 ## Verification
 
-* Run the relevant checks documented by the project or component before requesting review.
+* Run the relevant checks documented by the project or component before requesting review. Run builds, tests, and checks in the [dev container](.devcontainer/README.md) so that results match CI.
 * Add or update tests when behavior changes. Choose verification appropriate to the change and its risk.
 * For documentation changes, check links, examples, and instructions.
 * Report what you checked and any checks you could not run, with the reason.

@@ -12,8 +12,13 @@ Add or update definitions when terminology changes, and link to them from other 
 | CI | Continuous integration |
 | CLI | Command-line interface |
 | CRLF | Carriage return and line feed, the line ending used by Windows |
+| ID | Identifier |
 | LF | Line feed, the line ending used by Linux and macOS |
+| LTS | Long-term support, a release maintained for several years |
 | PR | Pull request |
+| USB | Universal Serial Bus |
+| VS Code | Visual Studio Code, a code editor |
+| WSL | Windows Subsystem for Linux |
 
 ## Terms
 
@@ -21,5 +26,6 @@ Add or update definitions when terminology changes, and link to them from other 
 | --- | --- |
 | Default branch | The repository's primary integration branch, as configured by its hosting service |
 | Derived template | A template that builds on this base with additional conventions, files, or tools |
+| Dev container | A container that provides a project's development environment, defined in the `.devcontainer/` directory |
 | Monorepo | A repository containing multiple projects or components maintained together |
 | README | A file that introduces a repository or directory and explains what it contains |

@@ -19,6 +19,6 @@ These instructions apply to AI assistants working in this repository, regardless
 
 ## Verification
 
-* Run the relevant documented checks and report their results.
+* Run the relevant documented checks and report their results. Run project commands in the [dev container](.devcontainer/README.md) when a container engine is available.
 * State which checks could not be run and why.
 * Update documentation when behavior or workflows change. Describe only tooling and automation actually available in the repository.

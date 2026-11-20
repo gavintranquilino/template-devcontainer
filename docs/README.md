@@ -10,6 +10,7 @@ The documents supplied by this base template are listed below. [Documentation](d
 * [Coding Style](coding-style.md) covers code, prose, Markdown, diagrams, and language-specific extensions.
 * [Documentation](documentation.md) covers document placement, design documents, and proposals.
 * [Glossary](glossary.md) defines shared terms and acronyms.
+* [Dev Container](../.devcontainer/README.md) covers the shared development environment and how to customize it.
 
 ## Guides
 
